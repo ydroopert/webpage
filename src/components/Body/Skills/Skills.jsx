@@ -11,7 +11,8 @@ function En() {
             <SList />
             <hr />
             <GitHubButton href="https://github.com/ydroopert" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @ydroopert on GitHub">Visit @ydroopert</GitHubButton>
-
+            <br/>
+            <a href="https://tingblog35p.herokuapp.com/">other small projects</a>
         </Container>)
 }
 function Tw() {
@@ -24,7 +25,8 @@ function Tw() {
             <SList />
             <hr />
             <GitHubButton href="https://github.com/ydroopert" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @ydroopert on GitHub">Visit @ydroopert</GitHubButton>
-
+            <br/>
+            <a href="https://tingblog35p.herokuapp.com/">一些早期的小作品</a>
         </Container>)
 }
 
