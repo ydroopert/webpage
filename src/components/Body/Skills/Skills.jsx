@@ -7,7 +7,7 @@ function En() {
             <h2>Skills</h2>
             <h3>Learning never ends</h3>
             <hr />
-            <p>Skills</p>
+            <p>Tools that I use</p>
             <SList />
             <hr />
             <GitHubButton href="https://github.com/ydroopert" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" aria-label="Follow @ydroopert on GitHub">Visit @ydroopert</GitHubButton>

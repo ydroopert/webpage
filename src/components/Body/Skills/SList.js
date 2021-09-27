@@ -21,7 +21,7 @@ function SList() {
                         JQuery
                     </li>
                     <li>
-                        JSON
+                        React
                     </li>
                     <li>
                         Node.js
@@ -31,25 +31,25 @@ function SList() {
             <Rightbox>
                 <ul>
                     <li>
-                        SQL
+                        SQL/NoSQL
                     </li>
                     <li>
-                        NoSQL
+                        Linux
                     </li>
                     <li>
-                        MVC pattern
-                    </li>
-                    <li>
-                        CLI
+                        Firebase
                     </li>
                     <li>
                         AWS
                     </li>
                     <li>
+                        Docker
+                    </li>
+                    <li>
                         Git/Github
                     </li>
                     <li>
-                        REACT
+                        Stackoverflow
                     </li>
                 </ul>
             </Rightbox>

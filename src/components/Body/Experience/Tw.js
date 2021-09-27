@@ -9,13 +9,6 @@ function Tw() {
             <hr />
             <p>教育</p>
 
-
-            <Info
-                name="網路學習"
-                year="2020-2021"
-                course="IT+Programming"
-                detail="CS50's Introduction to Computer Science By Harvard Google Certificate Udemy StackOverflow"
-            />
             <Info
                 name="Hotel Institute Montreux "
                 year="2017-2019"

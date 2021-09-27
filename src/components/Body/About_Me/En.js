@@ -4,14 +4,14 @@ function En() {
     return (<Container>
         <ProfileContainer>
             <h2>Profile</h2>
-            <h3>Hi! I'm a webdev that focus mostly on React+Node.js</h3>
+            <h3>Hi! I'm a software developer that focus a bit on the web dev field</h3>
             <hr />
             <InfoBox>
                 <Story>
                     <h3>About me</h3>
 
                     <p>
-                        I am an enthusiastic web developer that focus more on the Backend side of things. I am a junior programmer exporing various kinds of Front/Backend techniques. I love creating different projects and focus on little details for optimizing app quality. I also enjoy working with databases both SQL or NoSQL. So far I've been working on my own little projects and I am looking for the opportunity to develop in a team to learn from others.
+                        I am an enthusiastic web developer that focus more on the Backend side of things. I am a junior programmer exporing various kinds of Front/Backend techniques. I love creating different projects and focus on little details for optimizing app quality.
                     </p>
                 </Story>
                 <Picture>

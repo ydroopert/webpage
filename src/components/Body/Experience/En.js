@@ -9,13 +9,6 @@ function En(){
         <hr />
         <p>Education</p>
         
-            
-                <Info
-                    name="Online Resources"
-                    year="2020-2021"
-                    course="IT+Programming related topics"
-                    detail="CS50's Introduction to Computer Science By Harvard Google Certificate Udemy StackOverflow"
-                />
                 <Info
                     name="Hotel Institute Montreux "
                     year="2017-2019"
